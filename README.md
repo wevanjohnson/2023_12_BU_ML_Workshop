@@ -6,7 +6,7 @@ These are the materials for our BU Machine learning workshop at Boston Universit
 * Lots of diverse material and new concepts will be covered in this course
     + Machine Learning is __NOT__ a spectator sport! You need to practice the skills you learn over and over again!
 * Communication: if you have questions or concerns, please email us: <w.evan.johnson@rutgers.edu> or <vkola@bu.edu>
-* GitHub materials for the course:
+* Materials for the course:
     + All materials for this course will be posted on the course GitHub page: [https://github.com/wevanjohnson/2023_12_BU_ML_Workshop/edit/main/README.md)](https://github.com/wevanjohnson/2023_12_BU_ML_Workshop/edit/main/README.md)
     + You obviously have this since you are here!
     + Please install the following R packages for Data Management: `tidyverse`, `DT`, `gridExtra`, `dslabs` (Rafa Irizarry’s datasets for his Data Science book!)​. In R: `install.packages(c(tidyverse, DT, gridExtra, dslabs))`
