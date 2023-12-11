@@ -9,8 +9,10 @@ These are the materials for our BU Machine learning workshop at Boston Universit
 * Materials for the course:
     + All materials for this course will be posted on the course GitHub page: [https://github.com/wevanjohnson/2023_12_BU_ML_Workshop/edit/main/README.md)](https://github.com/wevanjohnson/2023_12_BU_ML_Workshop/edit/main/README.md)
     + You obviously have this since you are here!
+* Dependencies (R packages to install and datasets to download): 
     + Please install the following R packages for Data Management: `tidyverse`, `DT`, `gridExtra`, `dslabs` (Rafa Irizarry’s datasets for his Data Science book!)​. In R: `install.packages(c(tidyverse, DT, gridExtra, dslabs))`
     + ​Please install the following R packages for Machine learning: ​`caret`, `e1071`, `rpart`, `randomForest`, `neuralnet`. In R: `install.packages(c(caret, e1071, rpart, randomForest, neuralnet))` ​
+    + You will need the following datasets: ESL.mixture.rda, TBnanostring.rds
 * Schedule:
 
 | Topics                                        |
